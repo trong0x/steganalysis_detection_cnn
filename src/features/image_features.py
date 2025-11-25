@@ -1,8 +1,3 @@
-"""
-Extract statistical features from images for traditional ML approaches
-File: /home/bot/steganalysis-detection_cnn/src/features/image_features.py
-"""
-
 import numpy as np
 from PIL import Image
 import cv2

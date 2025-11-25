@@ -1,6 +1,4 @@
 """
-Configuration management utilities
-File: /home/bot/steganalysis-detection_cnn/src/utils/config.py
 
 Centralized configuration system for the steganalysis project.
 Supports YAML and JSON formats with validation and defaults.

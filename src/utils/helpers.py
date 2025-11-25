@@ -1,7 +1,5 @@
 """
 Utility helper functions for the steganalysis project
-File: /home/bot/steganalysis-detection_cnn/src/utils/helpers.py
-
 Collection of general-purpose utility functions used across the project.
 """
 

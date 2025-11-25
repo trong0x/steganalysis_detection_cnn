@@ -7,7 +7,6 @@ import numpy as np
 from pathlib import Path
 from typing import Dict, Optional, Tuple
 import time
-
 from .metrics import MetricsCalculator, AverageMeter, MetricsTracker
 from .losses import get_loss_function
 

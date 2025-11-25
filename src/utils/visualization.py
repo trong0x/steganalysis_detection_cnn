@@ -1,7 +1,4 @@
 """
-Visualization utilities for steganalysis
-File: /home/bot/steganalysis-detection_cnn/src/utils/visualization.py
-
 Functions for plotting training curves, confusion matrices, and model results.
 """
 

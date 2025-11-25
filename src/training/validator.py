@@ -1,8 +1,3 @@
-"""
-Validation logic and evaluation utilities
-File: /home/bot/steganalysis-detection_cnn/src/training/validator.py
-"""
-
 import torch
 import torch.nn as nn
 from torch.utils.data import DataLoader

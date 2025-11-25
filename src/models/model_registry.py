@@ -1,7 +1,3 @@
-"""
-Model factory and registry for easy model instantiation
-"""
-
 import torch.nn as nn
 from typing import Dict, Any
 from .cnn_base import StegCNNBase, DeepStegCNN, LightweightStegCNN

@@ -1,7 +1,3 @@
-"""
-Evaluation metrics for steganalysis
-"""
-
 import torch
 import numpy as np
 from sklearn.metrics import (

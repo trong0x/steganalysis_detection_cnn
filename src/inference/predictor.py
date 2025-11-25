@@ -1,7 +1,3 @@
-"""
-Single file prediction for steganalysis
-"""
-
 import torch
 import torch.nn as nn
 from PIL import Image

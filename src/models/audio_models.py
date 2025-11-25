@@ -1,7 +1,3 @@
-"""
-Audio-specific models for steganalysis (spectrogram-based CNNs)
-"""
-
 import torch
 import torch.nn as nn
 

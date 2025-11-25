@@ -1,7 +1,3 @@
-"""
-Logging utilities for training and inference
-"""
-
 import logging
 import sys
 from pathlib import Path

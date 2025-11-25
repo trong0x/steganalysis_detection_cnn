@@ -1,8 +1,3 @@
-"""
-Batch prediction for multiple files
-File: /home/bot/steganalysis-detection_cnn/src/inference/batch_predictor.py
-"""
-
 import torch
 import torch.nn as nn
 import torch.nn.functional as F

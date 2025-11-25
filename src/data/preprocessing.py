@@ -1,8 +1,3 @@
-"""
-Preprocessing utilities for images and audio
-File: /home/bot/steganalysis-detection_cnn/src/data/preprocessing.py
-"""
-
 import torch
 import torchaudio
 import torchvision.transforms as T

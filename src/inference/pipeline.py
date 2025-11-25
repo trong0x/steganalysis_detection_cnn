@@ -1,7 +1,3 @@
-"""
-End-to-end inference pipeline for steganalysis
-"""
-
 import json
 import time
 import shutil

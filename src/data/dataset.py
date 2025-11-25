@@ -1,8 +1,3 @@
-"""
-PyTorch Dataset classes for steganalysis
-File: /home/bot/steganalysis-detection_cnn/src/data/dataset.py
-"""
-
 import random
 from pathlib import Path
 from typing import Callable, List, Optional, Tuple

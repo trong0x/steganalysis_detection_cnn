@@ -1,7 +1,3 @@
-"""
-Extract audio features for traditional ML approaches
-"""
-
 import numpy as np
 import librosa
 import torchaudio
