@@ -1,0 +1,20 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.env
+venv/
+.vscode/
+
+# Data (Không bao giờ push data lên git)
+data/raw/
+data/processed/
+models/pretrained/
+models/checkpoints/
+models/best_models/
+
+# Logs & Output
+logs/
+outputs/
+experiments/*/logs/

@@ -1,0 +1,35 @@
+# Deep Learnin
+torch
+torchvision
+torchaudio
+
+# Data Processing
+numpy
+pandas
+Pillow
+scipy
+librosa
+soundfile
+
+# Machine Learning
+scikit-learn
+scikit-image
+
+# Visualization
+matplotlib
+seaborn
+plotly
+
+# Utilities
+PyYAML
+tqdm
+tensorboard
+
+# Testing
+pytest
+pytest-cov
+
+# Code Quality
+black
+flake8
+mypy
